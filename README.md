@@ -20,5 +20,5 @@ GUI implementation in python:
 
 Developed a user-friendly GUI using Python library Tkinter
 
-It uses the device's camera for capturing the  real-time currency  image and  classify using trained deep learning model which is integrated into GUI and it displays recognized currency along with its denomination
+It uses the device's camera for capturing the  real-time currency  image and  classify using trained deep learning model which is integrated into GUI and it displays and produces voice output of the recognized currency along with its denomination
 
